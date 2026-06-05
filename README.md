@@ -73,14 +73,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojtellamekala\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojtellamekala\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/manoj-t-3ab19a401/
