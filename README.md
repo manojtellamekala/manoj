@@ -12,7 +12,7 @@
 * 🎓 B.Tech in Computer Science & Engineering (2022–2026)
 * 🌱 Currently learning and exploring AI, Machine Learning, Deep Learning, and Cloud Technologies
 * 💡 Interested in solving real-world problems using intelligent systems
-* ☁️ AWS Cloud Practitioner Certified
+* ☁️ AWS Certified Cloud Practitioner
 * 📊 Passionate about Data Analysis and AI-powered applications
 * 🚀 Open to Internship and Entry-Level Opportunities in AI, Python Development, and Software Engineering
 
@@ -54,15 +54,15 @@
 
 * Developed a bird species classification model using CNN and EfficientNet.
 * Applied Transfer Learning, Data Augmentation, and Feature Extraction.
-* Improved performance through hyperparameter tuning and model optimization.
+* Improved model performance through hyperparameter tuning and optimization.
 * Evaluated using Accuracy, Precision, and Recall metrics.
 
 ### 🏥 Multimodal Sentiment Analysis for Healthcare
 
 * Built a multimodal deep learning pipeline for healthcare sentiment analysis.
-* Utilized BERT embeddings for text understanding.
-* Implemented CNN-based visual encoders and BiLSTM/Transformer models.
-* Applied attention-based feature fusion for improved emotion classification.
+* Utilized BERT embeddings for textual understanding.
+* Implemented CNN-based visual encoders and BiLSTM/Transformer architectures.
+* Applied attention-based feature fusion for enhanced emotion classification.
 
 ---
 
@@ -83,6 +83,12 @@
 
 ---
 
+## 📈 Career Objective
+
+Aspiring AI and Machine Learning Engineer with a strong foundation in Python, Deep Learning, and Data Analysis. Passionate about leveraging emerging technologies to solve real-world challenges and contribute to innovative software solutions.
+
+---
+
 ### 💭 Quote
 
-"Success comes from continuous learning, consistency, and the courage to build something meaningful."
+*"Success comes from continuous learning, consistency, and the courage to build something meaningful."*
